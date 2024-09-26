@@ -1,6 +1,6 @@
 ## named\_params
 
-#### Simple, fast named parameters for Rust functions
+#### Fast, simple named parameters for Rust functions
 
 Named function parameters have been a much-requested feature for Rust, with various approaches for it. This crate is a proc macro crate that streamlines one particular approach, that of replacing the parameters of a function with a struct that has each parameter as a member (note that optional parameters are not currently supported, although they could be if people want it).
 
