@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Michael Eisel <michael.eisel@gmail.com>"]
 license = "MIT"
 repository = "https://github.com/michaeleisel/named_params"
+readme = "../README.md"
 
 [lib]
 proc-macro = true
