@@ -1,0 +1,9 @@
+[package]
+name = "test_lib"
+version = "1.0.0"
+edition = "2021"
+
+[lib]
+
+[dependencies]
+named_params = { path = "../named_params" }

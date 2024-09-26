@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "named_params",
+    "test_lib",
+]
