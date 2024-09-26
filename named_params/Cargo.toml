@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Michael Eisel <michael.eisel@gmail.com>"]
 license = "MIT"
 repository = "https://github.com/michaeleisel/named_params"
+description = "Fast, simple named parameters for Rust functions"
 readme = "../README.md"
 
 [lib]
