@@ -2,21 +2,9 @@
 
 #### Fast, simple named parameters for Rust functions
 
-<a href="https://github.com/michaeleisel/named_params"><img
-    alt="github"
-    src="https://img.shields.io/badge/github-michaeleisel/named_params-228b22?style=for-the-badge&labelColor=555555&logo=github"
-    height="25"
-/></a>
-<a href="https://crates.io/crates/named_params"><img
-    alt="crates.io"
-    src="https://img.shields.io/crates/v/named_params.svg?style=for-the-badge&color=e37602&logo=rust"
-    height="25"
-/></a>
-<a href="https://docs.rs/named_params/latest/named_params"><img
-    alt="docs.rs"
-    src="https://img.shields.io/badge/docs.rs-named_params-3b74d1?style=for-the-badge&labelColor=555555&logo=docs.rs"
-    height="25"
-/></a>
+[![Build status](https://github.com/micah/ripgrep/workflows/ci/badge.svg)](https://github.com/BurntSushi/ripgrep/actions)
+![Coverage: 100%](https://img.shields.io/static/v1?label=coverage&message=96%&color=brightgreen)
+[![Crates.io](https://img.shields.io/crates/v/named_params.svg)](https://crates.io/crates/named_params)
 
 Named function parameters have been a much-requested feature for Rust, with various approaches for it. This crate is a proc macro crate that streamlines one particular approach, that of replacing the parameters of a function with a struct that has each parameter as a member.
 
